@@ -1,0 +1,161 @@
+[{
+        "label": "Reduce the fraction 14⁄35 to its lowest terms.",
+        "choices": [{
+                "value": "2/7",
+                "correct": false
+            },
+            {
+                "value": "2/5",
+                "correct": true
+            },
+            {
+                "value": "1/5",
+                "correct": false
+            },
+            {
+                "value": "3/7",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "label": "A basketball team has eight boys and four girls on the roster. The boys average 12 points each. The team averages 136 points as a whole. How many points does each girl average?",
+        "choices": [{
+                "value": "10 points",
+                "correct": true
+            },
+            {
+                "value": "11 points",
+                "correct": false
+            },
+            {
+                "value": "12 points",
+                "correct": false
+            },
+            {
+                "value": "14 points",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "label": "A biker travels 5 feet in 0.5 seconds. At this exact speed, how far will the biker travel in a minute?",
+        "choices": [{
+                "value": "400 feet",
+                "correct": false
+            },
+            {
+                "value": "900 feet",
+                "correct": false
+            },
+            {
+                "value": "300 feet",
+                "correct": false
+            },
+            {
+                "value": "600 feet",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "label": "To make a dozen cookies Trish needs 1/4 cup of butter. She wants to make 9 dozen cookies. How much butter does she need?",
+        "choices": [{
+                "value": "2 1/2 cups",
+                "correct": false
+            },
+            {
+                "value": "2 cups",
+                "correct": false
+            },
+            {
+                "value": "2 1/4 cups",
+                "correct": true
+            },
+            {
+                "value": "3 cups",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "label": "A copy machine repairman makes $12.50 per hour plus $4 for every service call he performs. Last week he worked 34 hours and made 6 service calls. How much money did he make?",
+        "choices": [{
+                "value": "$512",
+                "correct": false
+            },
+            {
+                "value": "$601",
+                "correct": false
+            },
+            {
+                "value": "$396",
+                "correct": false
+            },
+            {
+                "value": "$449",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "label": "How much square footage is there in a room that is 13 x 18 ft?",
+        "choices": [{
+                "value": " 210 sq ft",
+                "correct": false
+            },
+            {
+                "value": "234 sq ft",
+                "correct": true
+            },
+            {
+                "value": "224 sq ft",
+                "correct": false
+            },
+            {
+                "value": "184 sq ft",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "label": "A new phone sells for $250 and a used one sells for $75. How many of each are sold if the profit for the day is $625",
+        "choices": [{
+                "value": "1 new phone and 5 used",
+                "correct": true
+            },
+            {
+                "value": "9 used phones",
+                "correct": false
+            },
+            {
+                "value": "3 new phones",
+                "correct": false
+            },
+            {
+                "value": "2 new phones and 2 used ones",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "label": "Mary got a raise of 2% on her salary. If her original salary was $160000, how much is it after the raise is implemented?",
+        "choices": [{
+                "value": " $168,600",
+                "correct": false
+            },
+            {
+                "value": " $166,600",
+                "correct": false
+            },
+            {
+                "value": "$164,500",
+                "correct": false
+            },
+            {
+                "value": "$163,200",
+                "correct": true
+            }
+        ]
+    }
+]
