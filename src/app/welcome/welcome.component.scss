@@ -1,0 +1,56 @@
+mat-card {
+  border-radius: 0px;
+  width: 42%;
+  display: inline-block;
+  margin: auto;
+  margin-top: 3%;
+  text-align: center;
+  padding: 3%;
+}
+
+.mat-card>.mat-card-actions:last-child {
+  padding-bottom: 3%;
+}
+
+mat-card-content {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+mat-card-title {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+p {
+  text-align: left;
+  width: 90%;
+  margin: auto
+}
+
+.quizzes {
+  display: flex;
+  justify-content: space-between;
+}
+
+.welcome {
+  max-width: 80%;
+  padding: 5%;
+  padding-top: 2%;
+  background-color: white;
+  margin: auto;
+  margin-top: 5%;
+  text-align: center;
+}
+
+@media all and (max-width: 750px) {
+  .quizzes {
+    flex-direction: column;
+  }
+
+  mat-card {
+    width: 85%;
+  }
+}
