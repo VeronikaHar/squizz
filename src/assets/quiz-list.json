@@ -1,0 +1,14 @@
+[
+    {
+        "label": "Math",
+        "name": "math",
+        "description": "Brain-teasers to test your logic and mental math skills. No calculators allowed.",
+        "fileName": "math.json"
+    },
+    {
+        "label": "Words",
+        "name": "words",
+        "description": "Questions to check your vocabulary and ability to make a correct choice of words.",
+        "fileName": "words.json"
+    }
+]
