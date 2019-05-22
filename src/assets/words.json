@@ -1,6 +1,8 @@
-[{
-        "label": "Are the following two words similar, contradictory, or not related? Legend - Key",
-        "choices": [{
+[
+    {
+        "label": "1. Are the following two words similar, contradictory, or not related? Legend - Key",
+        "choices": [
+            {
                 "value": "Not Related",
                 "correct": false
             },
@@ -19,8 +21,9 @@
         ]
     },
     {
-        "label": "In a leap year, how many days does February have?",
-        "choices": [{
+        "label": "2. In a leap year, how many days does February have?",
+        "choices": [
+            {
                 "value": "27 days",
                 "correct": false
             },
@@ -39,8 +42,9 @@
         ]
     },
     {
-        "label": "If the first two statements are true, is the last statement true as well? Orange butterflies head to the south for the winter. Derek is a butterfly. Derek will head south for the winter.",
-        "choices": [{
+        "label": "3. If the first two statements are true, is the last statement true as well? Orange butterflies head to the south for the winter. Derek is a butterfly. Derek will head south for the winter.",
+        "choices": [
+            {
                 "value": "Yes",
                 "correct": false
             },
@@ -59,8 +63,9 @@
         ]
     },
     {
-        "label": "REFUTED, IRREFUTABLE – Do these words:",
-        "choices": [{
+        "label": "4. REFUTED, IRREFUTABLE – Do these words:",
+        "choices": [
+            {
                 "value": "Have contradicting meanings?",
                 "correct": true
             },
@@ -79,8 +84,9 @@
         ]
     },
     {
-        "label": "Rearrange the words to make a complete sentence. What word follows 'to'? Vacation Mike took to beach the a",
-        "choices": [{
+        "label": "5. Rearrange the words to make a complete sentence. What word follows 'to'? Vacation Mike took to beach the a",
+        "choices": [
+            {
                 "value": "beach",
                 "correct": false
             },
@@ -99,8 +105,9 @@
         ]
     },
     {
-        "label": "How many sides does a septagon have?",
-        "choices": [{
+        "label": "6. How many sides does a septagon have?",
+        "choices": [
+            {
                 "value": "8",
                 "correct": false
             },
@@ -119,8 +126,9 @@
         ]
     },
     {
-        "label": "Rearrange the words to form a complete sentence. Is the sentence true or false? a legs has eight spider",
-        "choices": [{
+        "label": "7. Rearrange the words to form a complete sentence. Is the sentence true or false? a legs has eight spider",
+        "choices": [
+            {
                 "value": "True",
                 "correct": true
             },
@@ -139,8 +147,9 @@
         ]
     },
     {
-        "label": "Are the following two words similar, contradictory, or not related? Beat - Pound",
-        "choices": [{
+        "label": "8. Are the following two words similar, contradictory, or not related? Beat - Pound",
+        "choices": [
+            {
                 "value": "Not Related",
                 "correct": false
             },

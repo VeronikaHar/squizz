@@ -1,6 +1,8 @@
-[{
-        "label": "Reduce the fraction 14⁄35 to its lowest terms.",
-        "choices": [{
+[
+    {
+        "label": "1. Reduce the fraction 14⁄35 to its lowest terms.",
+        "choices": [
+            {
                 "value": "2/7",
                 "correct": false
             },
@@ -19,8 +21,9 @@
         ]
     },
     {
-        "label": "A basketball team has eight boys and four girls on the roster. The boys average 12 points each. The team averages 136 points as a whole. How many points does each girl average?",
-        "choices": [{
+        "label": "2. A basketball team has eight boys and four girls on the roster. The boys average 12 points each. The team averages 136 points as a whole. How many points does each girl average?",
+        "choices": [
+            {
                 "value": "10 points",
                 "correct": true
             },
@@ -39,8 +42,9 @@
         ]
     },
     {
-        "label": "A biker travels 5 feet in 0.5 seconds. At this exact speed, how far will the biker travel in a minute?",
-        "choices": [{
+        "label": "3. A biker travels 5 feet in 0.5 seconds. At this exact speed, how far will the biker travel in a minute?",
+        "choices": [
+            {
                 "value": "400 feet",
                 "correct": false
             },
@@ -59,8 +63,9 @@
         ]
     },
     {
-        "label": "To make a dozen cookies Trish needs 1/4 cup of butter. She wants to make 9 dozen cookies. How much butter does she need?",
-        "choices": [{
+        "label": "4. To make a dozen cookies Trish needs 1/4 cup of butter. She wants to make 9 dozen cookies. How much butter does she need?",
+        "choices": [
+            {
                 "value": "2 1/2 cups",
                 "correct": false
             },
@@ -79,8 +84,9 @@
         ]
     },
     {
-        "label": "A copy machine repairman makes $12.50 per hour plus $4 for every service call he performs. Last week he worked 34 hours and made 6 service calls. How much money did he make?",
-        "choices": [{
+        "label": "5. A copy machine repairman makes $12.50 per hour plus $4 for every service call he performs. Last week he worked 34 hours and made 6 service calls. How much money did he make?",
+        "choices": [
+            {
                 "value": "$512",
                 "correct": false
             },
@@ -99,8 +105,9 @@
         ]
     },
     {
-        "label": "How much square footage is there in a room that is 13 x 18 ft?",
-        "choices": [{
+        "label": "6. How much square footage is there in a room that is 13 x 18 ft?",
+        "choices": [
+            {
                 "value": " 210 sq ft",
                 "correct": false
             },
@@ -119,8 +126,9 @@
         ]
     },
     {
-        "label": "A new phone sells for $250 and a used one sells for $75. How many of each are sold if the profit for the day is $625",
-        "choices": [{
+        "label": "7. A new phone sells for $250 and a used one sells for $75. How many of each are sold if the profit for the day is $625",
+        "choices": [
+            {
                 "value": "1 new phone and 5 used",
                 "correct": true
             },
@@ -139,8 +147,9 @@
         ]
     },
     {
-        "label": "Mary got a raise of 2% on her salary. If her original salary was $160000, how much is it after the raise is implemented?",
-        "choices": [{
+        "label": "8. Mary got a raise of 2% on her salary. If her original salary was $160000, how much is it after the raise is implemented?",
+        "choices": [
+            {
                 "value": " $168,600",
                 "correct": false
             },
