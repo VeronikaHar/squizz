@@ -9,9 +9,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { QuestionsComponent } from './questions/questions.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MatCardModule } from '@angular/material';
-import { MatButtonModule } from '@angular/material/button';
-import { MatRadioModule } from '@angular/material/radio';
+import { MatRadioModule, MatButtonModule, MatCardModule } from '@angular/material';
 
 const appRoutes: Routes = [
   { path: 'welcome', component: WelcomeComponent },

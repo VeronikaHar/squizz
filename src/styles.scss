@@ -53,9 +53,21 @@ a:focus {
 h1,
 h2,
 h3 {
-  color: #52B4FF;
+  color: #66BDFF;
   font-family: 'Nunito', sans-serif;
   font-weight: 600;
+}
+
+.mat-radio-outer-circle {
+  border-color: #66BDFF;
+}
+
+.mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle {
+  border-color: #CC716E;
+}
+
+.mat-radio-label-content {
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 @media all and (max-width: 750px) {
